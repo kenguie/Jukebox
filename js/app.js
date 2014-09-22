@@ -102,7 +102,7 @@ $(document).ready(function() {
         
     
     
-    
+    // old code i wanted to save //
     
      /*   if (song=="Queen" || song=="Bohemian Rhapsody") {
             $(".jukebox").append("<p>Queen's Bohemian Rhapsody is being played.</p>");
