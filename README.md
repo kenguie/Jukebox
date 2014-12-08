@@ -1,5 +1,5 @@
 ## Jukebox using JS and text
-=======
+--------
 
 This was an exercise to create a jukebox using text and javascript. 
 
